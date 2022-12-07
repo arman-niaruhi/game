@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\arman\source\repos\Space\Space\deps\include\glad\glad.h(326,1): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(107): message : see previous definition of 'GL_ALL_ATTRIB_BITS'
+C:\Users\arman\source\repos\Space\Space\deps\include\glad\glad.h(414,1): warning C4005: 'GL_LOGIC_OP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1152): message : see previous definition of 'GL_LOGIC_OP'
+C:\Users\arman\source\repos\Space\Space\deps\include\glad\glad.h(498,1): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1153): message : see previous definition of 'GL_TEXTURE_COMPONENTS'
+C:\Users\arman\source\repos\Space\Space\deps\include\glad\glad.h(592,1): warning C4005: 'GL_CLIENT_ALL_ATTRIB_BITS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(973): message : see previous definition of 'GL_CLIENT_ALL_ATTRIB_BITS'
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead.
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(172,28): warning C4305: 'argument': truncation from 'double' to 'irrklang::ik_f32'
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(207,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(276,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(415,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(430,36): warning C4305: 'argument': truncation from 'double' to 'irrklang::ik_f32'
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(511,37): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(514,37): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(525,41): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(632,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(655,40): warning C4305: 'argument': truncation from 'double' to 'irrklang::ik_f32'
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(681,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(688,40): warning C4305: 'argument': truncation from 'double' to 'irrklang::ik_f32'
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(711,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(979,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(980,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(984,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(985,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(987,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(988,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\data\UNI\Semester6\Abgabe\New folder\Space\Space\src\main.cpp(997,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Space.vcxproj -> A:\data\UNI\Semester6\Abgabe\New folder\Space\x64\Debug\Space.exe
